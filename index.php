@@ -84,8 +84,3 @@ while ($row = $result->fetch_assoc()){
 
 $conn->close();
 ?>
-<div class="box9">
-            <audio autoplay loop>
-                <source src="b.mp3">
-            </audio>
-</div>
